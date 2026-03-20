@@ -14,3 +14,5 @@ The robot earned the nickname “Potato” 🥔. The object it had to follow was
 - track mode to approach or retreat safely
 - search mode with rotational scanning when Tomato disappears
 - fully autonomous behaviour using local sensing only
+
+# Output
