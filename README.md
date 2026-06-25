@@ -16,6 +16,7 @@ The robot earned the nickname “Potato” 🥔. The object it had to follow was
 - fully autonomous behaviour using local sensing only
 
 # Output
+<img width="432" height="242" alt="EPuck" src="https://github.com/user-attachments/assets/d65922ce-c65b-4aa6-a6b9-78ae27a8cd90" />
 
 # Contributors
 - [Rithish Ramamoorthy Sathya](https://github.com/rithish007)
